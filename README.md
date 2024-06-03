@@ -1,7 +1,10 @@
 # CATIA(Computer-Graphics Aided Three-Dimensional Interative Application)
 
+![image](https://github.com/siilver94/CATIA/assets/57824945/d872e3ac-5302-4dbb-8ffa-463e153f3f67)
+
+
 <br />
-<br />
+
 
 ## 카티아(CATIA)란?
 
