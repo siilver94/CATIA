@@ -1,0 +1,35 @@
+# 📂 일반적인 시스템 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 📂 CATIA 관련 불필요한 파일
+*.lock
+*.bak
+*.tmp
+*.log
+
+# 📂 CATIA 작업 파일 (자동 저장 및 임시 파일)
+*.CATBak
+*.CATTemp
+*.CATSettings
+
+# 📂 CATIA 캐시 및 사용자 설정 파일
+CATUserSetting.xml
+*.CATPreferences
+*.CATMaterial
+
+# 📂 빌드 또는 결과물 폴더 (렌더링 및 출력 파일)
+output/
+renders/
+exports/
+
+# 📂 IDE 관련 파일 (예: JetBrains, VSCode 등)
+.idea/
+.vscode/
+*.iml
+
+# 📂 OS별 불필요한 파일
+*.swp
+*.swo
+*.swn
